@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunk_ali_agentscope_ai_design=self.webpackChunk_ali_agentscope_ai_design||[]).push([[6707,5737],{23442:function(K,g,n){n.r(g);var x=n(71615),P=n(56373),_=n(43158),f=n(8894),h=n(89698),r=n(86250),j=n(67294),o=n(85893),M=function(){var c=`function main(params) {    
+"use strict";(self.webpackChunk_agentscope_ai_design=self.webpackChunk_agentscope_ai_design||[]).push([[6707],{23442:function(K,g,n){n.r(g);var x=n(71615),P=n(56373),_=n(43158),f=n(8894),h=n(89698),r=n(86250),j=n(67294),o=n(85893),M=function(){var c=`function main(params) {    
   const ret = {        
     "result": {           
       "key0": params.city + params.date,            

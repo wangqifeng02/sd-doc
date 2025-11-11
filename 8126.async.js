@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunk_ali_agentscope_ai_design=self.webpackChunk_ali_agentscope_ai_design||[]).push([[8126],{33495:function(e,n,o){o.d(n,{Z:function(){return g}});var d=o(67294),l={icon:{tag:"svg",attrs:{viewBox:"64 64 896 896",focusable:"false"},children:[{tag:"path",attrs:{d:"M512 972.8c254.5 0 460.8-206.3 460.8-460.8S766.5 51.2 512 51.2 51.2 257.5 51.2 512 257.5 972.8 512 972.8zm357.04-602.15Q896 438.75 896 512t-26.96 141.35q-29.28 73.94-85.51 130.18a380.12 380.12 0 01-130.18 85.51Q585.25 896 512 896t-141.35-26.96q-73.94-29.28-130.18-85.51-56.23-56.24-85.51-130.18Q128 585.25 128 512c0-48.83 8.99-95.95 26.96-141.35q29.28-73.94 85.51-130.18 56.24-56.23 130.18-85.51Q438.75 128 512 128c48.83 0 95.95 8.99 141.35 26.96q73.94 29.28 130.18 85.51c37.49 37.5 66 80.88 85.51 130.18zm-145.57 45.62a38.4 38.4 0 0011.25-27.15 38.4 38.4 0 00-38.4-38.4 38.4 38.4 0 00-27.15 11.25l-218.61 218.6-95.73-95.72a38.4 38.4 0 00-27.15-11.25 38.4 38.4 0 00-27.15 65.55L423.4 662.03c15 15 39.3 15 54.3 0l245.76-245.76z"}}]},name:"check-circle",theme:"outlined"},m=l,u=o(94704);function s(){return s=Object.assign?Object.assign.bind():function(a){for(var r=1;r<arguments.length;r++){var c=arguments[r];for(var p in c)Object.prototype.hasOwnProperty.call(c,p)&&(a[p]=c[p])}return a},s.apply(this,arguments)}const t=(a,r)=>d.createElement(u.Z,s({},a,{ref:r,icon:m}));var g=d.forwardRef(t)},55595:function(e,n,o){o.d(n,{Z:function(){return g}});var d=o(67294),l={icon:{tag:"svg",attrs:{viewBox:"64 64 896 896",focusable:"false"},children:[{tag:"path",attrs:{d:"M512 972.8c254.5 0 460.8-206.3 460.8-460.8S766.5 51.2 512 51.2 51.2 257.5 51.2 512 257.5 972.8 512 972.8zm357.04-602.15Q896 438.75 896 512t-26.96 141.35q-29.28 73.94-85.51 130.18a380.12 380.12 0 01-130.18 85.51Q585.25 896 512 896t-141.35-26.96q-73.94-29.28-130.18-85.51-56.23-56.24-85.51-130.18C136.99 607.95 128 560.83 128 512s8.99-95.95 26.96-141.35q29.28-73.94 85.51-130.18 56.24-56.23 130.18-85.51Q438.75 128 512 128c48.83 0 95.95 8.99 141.35 26.96q73.94 29.28 130.18 85.51c37.49 37.5 66 80.88 85.51 130.18zm-445.09 283.7a38.39 38.39 0 01-27.15 11.25 38.4 38.4 0 01-27.15-65.55L457.69 512l-88.04-88.05a38.4 38.4 0 01-11.25-27.15 38.4 38.4 0 0165.55-27.15L512 457.69l88.05-88.04a38.4 38.4 0 0127.15-11.25 38.4 38.4 0 0127.15 65.55L566.31 512l88.04 88.05a38.39 38.39 0 0111.25 27.15 38.4 38.4 0 01-38.4 38.4 38.39 38.39 0 01-27.15-11.25L512 566.31l-88.05 88.04z"}}]},name:"close-circle",theme:"outlined"},m=l,u=o(94704);function s(){return s=Object.assign?Object.assign.bind():function(a){for(var r=1;r<arguments.length;r++){var c=arguments[r];for(var p in c)Object.prototype.hasOwnProperty.call(c,p)&&(a[p]=c[p])}return a},s.apply(this,arguments)}const t=(a,r)=>d.createElement(u.Z,s({},a,{ref:r,icon:m}));var g=d.forwardRef(t)},52565:function(e,n,o){o.d(n,{Z:function(){return g}});var d=o(67294),l={icon:{tag:"svg",attrs:{viewBox:"64 64 896 896",focusable:"false"},children:[{tag:"path",attrs:{d:"M512 972.8c254.5 0 460.8-206.3 460.8-460.8S766.5 51.2 512 51.2 51.2 257.5 51.2 512 257.5 972.8 512 972.8zm357.04-602.15Q896 438.75 896 512t-26.96 141.35q-29.28 73.94-85.51 130.18a380.12 380.12 0 01-130.18 85.51Q585.25 896 512 896t-141.35-26.96q-73.94-29.28-130.18-85.51-56.23-56.24-85.51-130.18Q128 585.25 128 512t26.96-141.35q29.28-73.94 85.51-130.18 56.24-56.23 130.18-85.51C416.05 136.99 463.17 128 512 128s95.95 8.99 141.35 26.96q73.94 29.28 130.18 85.51c37.49 37.5 66 80.88 85.51 130.18zm-407.36-27.72a50.42 50.42 0 11100.64 0l-13.55 211.38a36.85 36.85 0 01-73.54 0l-13.55-211.38zM512 742.4a53.76 53.76 0 100-107.52 53.76 53.76 0 000 107.52z"}}]},name:"exclamation-circle",theme:"outlined"},m=l,u=o(94704);function s(){return s=Object.assign?Object.assign.bind():function(a){for(var r=1;r<arguments.length;r++){var c=arguments[r];for(var p in c)Object.prototype.hasOwnProperty.call(c,p)&&(a[p]=c[p])}return a},s.apply(this,arguments)}const t=(a,r)=>d.createElement(u.Z,s({},a,{ref:r,icon:m}));var g=d.forwardRef(t)},96406:function(e,n,o){o.d(n,{Z:function(){return g}});var d=o(67294),l={icon:{tag:"svg",attrs:{viewBox:"64 64 896 896",focusable:"false"},children:[{tag:"path",attrs:{d:"M512 972.8c254.5 0 460.8-206.3 460.8-460.8S766.5 51.2 512 51.2 51.2 257.5 51.2 512 257.5 972.8 512 972.8zm357.04-602.15Q896 438.75 896 512t-26.96 141.35q-29.28 73.94-85.51 130.18a380.12 380.12 0 01-130.18 85.51Q585.25 896 512 896t-141.35-26.96q-73.94-29.28-130.18-85.51-56.23-56.24-85.51-130.18Q128 585.25 128 512t26.96-141.35q29.28-73.94 85.51-130.18 56.24-56.23 130.18-85.51C416.05 136.99 463.17 128 512 128s95.95 8.99 141.35 26.96q73.94 29.28 130.18 85.51c37.49 37.5 66 80.88 85.51 130.18zM569.6 262.4a57.6 57.6 0 11-115.2 0 57.6 57.6 0 01115.2 0zm30.72 433.92h-38.4V416c0-5.71-1.11-11.2-3.33-16.45a41.9 41.9 0 00-9.04-13.42 41.9 41.9 0 00-13.42-9.04 41.82 41.82 0 00-16.45-3.33h-42.24a38.4 38.4 0 000 76.8h7.68v245.76h-38.4a38.4 38.4 0 000 76.8h153.6a38.4 38.4 0 000-76.8z"}}]},name:"info-circle",theme:"outlined"},m=l,u=o(94704);function s(){return s=Object.assign?Object.assign.bind():function(a){for(var r=1;r<arguments.length;r++){var c=arguments[r];for(var p in c)Object.prototype.hasOwnProperty.call(c,p)&&(a[p]=c[p])}return a},s.apply(this,arguments)}const t=(a,r)=>d.createElement(u.Z,s({},a,{ref:r,icon:m}));var g=d.forwardRef(t)},60218:function(e,n,o){o.r(n),o.d(n,{useStyle:function(){return s}});var d=o(68400),l=o.n(d),m=o(3067),u,s=(0,m.Z)(u||(u=l()([`
+(self.webpackChunk_agentscope_ai_design=self.webpackChunk_agentscope_ai_design||[]).push([[8126],{33495:function(e,n,t){"use strict";t.d(n,{Z:function(){return d}});var s=t(67294),l={icon:{tag:"svg",attrs:{viewBox:"64 64 896 896",focusable:"false"},children:[{tag:"path",attrs:{d:"M512 972.8c254.5 0 460.8-206.3 460.8-460.8S766.5 51.2 512 51.2 51.2 257.5 51.2 512 257.5 972.8 512 972.8zm357.04-602.15Q896 438.75 896 512t-26.96 141.35q-29.28 73.94-85.51 130.18a380.12 380.12 0 01-130.18 85.51Q585.25 896 512 896t-141.35-26.96q-73.94-29.28-130.18-85.51-56.23-56.24-85.51-130.18Q128 585.25 128 512c0-48.83 8.99-95.95 26.96-141.35q29.28-73.94 85.51-130.18 56.24-56.23 130.18-85.51Q438.75 128 512 128c48.83 0 95.95 8.99 141.35 26.96q73.94 29.28 130.18 85.51c37.49 37.5 66 80.88 85.51 130.18zm-145.57 45.62a38.4 38.4 0 0011.25-27.15 38.4 38.4 0 00-38.4-38.4 38.4 38.4 0 00-27.15 11.25l-218.61 218.6-95.73-95.72a38.4 38.4 0 00-27.15-11.25 38.4 38.4 0 00-27.15 65.55L423.4 662.03c15 15 39.3 15 54.3 0l245.76-245.76z"}}]},name:"check-circle",theme:"outlined"},u=l,c=t(94704);function i(){return i=Object.assign?Object.assign.bind():function(a){for(var r=1;r<arguments.length;r++){var m=arguments[r];for(var g in m)Object.prototype.hasOwnProperty.call(m,g)&&(a[g]=m[g])}return a},i.apply(this,arguments)}const o=(a,r)=>s.createElement(c.Z,i({},a,{ref:r,icon:u}));var d=s.forwardRef(o)},55595:function(e,n,t){"use strict";t.d(n,{Z:function(){return d}});var s=t(67294),l={icon:{tag:"svg",attrs:{viewBox:"64 64 896 896",focusable:"false"},children:[{tag:"path",attrs:{d:"M512 972.8c254.5 0 460.8-206.3 460.8-460.8S766.5 51.2 512 51.2 51.2 257.5 51.2 512 257.5 972.8 512 972.8zm357.04-602.15Q896 438.75 896 512t-26.96 141.35q-29.28 73.94-85.51 130.18a380.12 380.12 0 01-130.18 85.51Q585.25 896 512 896t-141.35-26.96q-73.94-29.28-130.18-85.51-56.23-56.24-85.51-130.18C136.99 607.95 128 560.83 128 512s8.99-95.95 26.96-141.35q29.28-73.94 85.51-130.18 56.24-56.23 130.18-85.51Q438.75 128 512 128c48.83 0 95.95 8.99 141.35 26.96q73.94 29.28 130.18 85.51c37.49 37.5 66 80.88 85.51 130.18zm-445.09 283.7a38.39 38.39 0 01-27.15 11.25 38.4 38.4 0 01-27.15-65.55L457.69 512l-88.04-88.05a38.4 38.4 0 01-11.25-27.15 38.4 38.4 0 0165.55-27.15L512 457.69l88.05-88.04a38.4 38.4 0 0127.15-11.25 38.4 38.4 0 0127.15 65.55L566.31 512l88.04 88.05a38.39 38.39 0 0111.25 27.15 38.4 38.4 0 01-38.4 38.4 38.39 38.39 0 01-27.15-11.25L512 566.31l-88.05 88.04z"}}]},name:"close-circle",theme:"outlined"},u=l,c=t(94704);function i(){return i=Object.assign?Object.assign.bind():function(a){for(var r=1;r<arguments.length;r++){var m=arguments[r];for(var g in m)Object.prototype.hasOwnProperty.call(m,g)&&(a[g]=m[g])}return a},i.apply(this,arguments)}const o=(a,r)=>s.createElement(c.Z,i({},a,{ref:r,icon:u}));var d=s.forwardRef(o)},52565:function(e,n,t){"use strict";t.d(n,{Z:function(){return d}});var s=t(67294),l={icon:{tag:"svg",attrs:{viewBox:"64 64 896 896",focusable:"false"},children:[{tag:"path",attrs:{d:"M512 972.8c254.5 0 460.8-206.3 460.8-460.8S766.5 51.2 512 51.2 51.2 257.5 51.2 512 257.5 972.8 512 972.8zm357.04-602.15Q896 438.75 896 512t-26.96 141.35q-29.28 73.94-85.51 130.18a380.12 380.12 0 01-130.18 85.51Q585.25 896 512 896t-141.35-26.96q-73.94-29.28-130.18-85.51-56.23-56.24-85.51-130.18Q128 585.25 128 512t26.96-141.35q29.28-73.94 85.51-130.18 56.24-56.23 130.18-85.51C416.05 136.99 463.17 128 512 128s95.95 8.99 141.35 26.96q73.94 29.28 130.18 85.51c37.49 37.5 66 80.88 85.51 130.18zm-407.36-27.72a50.42 50.42 0 11100.64 0l-13.55 211.38a36.85 36.85 0 01-73.54 0l-13.55-211.38zM512 742.4a53.76 53.76 0 100-107.52 53.76 53.76 0 000 107.52z"}}]},name:"exclamation-circle",theme:"outlined"},u=l,c=t(94704);function i(){return i=Object.assign?Object.assign.bind():function(a){for(var r=1;r<arguments.length;r++){var m=arguments[r];for(var g in m)Object.prototype.hasOwnProperty.call(m,g)&&(a[g]=m[g])}return a},i.apply(this,arguments)}const o=(a,r)=>s.createElement(c.Z,i({},a,{ref:r,icon:u}));var d=s.forwardRef(o)},96406:function(e,n,t){"use strict";t.d(n,{Z:function(){return d}});var s=t(67294),l={icon:{tag:"svg",attrs:{viewBox:"64 64 896 896",focusable:"false"},children:[{tag:"path",attrs:{d:"M512 972.8c254.5 0 460.8-206.3 460.8-460.8S766.5 51.2 512 51.2 51.2 257.5 51.2 512 257.5 972.8 512 972.8zm357.04-602.15Q896 438.75 896 512t-26.96 141.35q-29.28 73.94-85.51 130.18a380.12 380.12 0 01-130.18 85.51Q585.25 896 512 896t-141.35-26.96q-73.94-29.28-130.18-85.51-56.23-56.24-85.51-130.18Q128 585.25 128 512t26.96-141.35q29.28-73.94 85.51-130.18 56.24-56.23 130.18-85.51C416.05 136.99 463.17 128 512 128s95.95 8.99 141.35 26.96q73.94 29.28 130.18 85.51c37.49 37.5 66 80.88 85.51 130.18zM569.6 262.4a57.6 57.6 0 11-115.2 0 57.6 57.6 0 01115.2 0zm30.72 433.92h-38.4V416c0-5.71-1.11-11.2-3.33-16.45a41.9 41.9 0 00-9.04-13.42 41.9 41.9 0 00-13.42-9.04 41.82 41.82 0 00-16.45-3.33h-42.24a38.4 38.4 0 000 76.8h7.68v245.76h-38.4a38.4 38.4 0 000 76.8h153.6a38.4 38.4 0 000-76.8z"}}]},name:"info-circle",theme:"outlined"},u=l,c=t(94704);function i(){return i=Object.assign?Object.assign.bind():function(a){for(var r=1;r<arguments.length;r++){var m=arguments[r];for(var g in m)Object.prototype.hasOwnProperty.call(m,g)&&(a[g]=m[g])}return a},i.apply(this,arguments)}const o=(a,r)=>s.createElement(c.Z,i({},a,{ref:r,icon:u}));var d=s.forwardRef(o)},60218:function(e,n,t){"use strict";t.r(n),t.d(n,{useStyle:function(){return i}});var s=t(68400),l=t.n(s),u=t(3067),c,i=(0,u.Z)(c||(c=l()([`
 .`,`-alert-dialog {
   .`,`-modal-body {
     padding: 0 0 12px 32px;
@@ -16,7 +16,7 @@
     max-width: 100%;
   }
 }
-`])),function(t){return t.sparkPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix})},37339:function(e,n,o){o.r(n);var d=o(97857),l=o.n(d),m=o(13769),u=o.n(m),s=o(23048),t=o(33495),x=o(52565),g=o(96406),a=o(55595),r=o(86250),c=o(85576),p=o(93967),C=o.n(p),P=o(93865),y=o(60218),i=o(85893),_=["children","type","danger","title","width","className"],k=function(h){var f=function(O){var z=O.type,R=O.title,N=(0,P.getCommonConfig)(),F=N.antPrefix;switch(z){case"success":return(0,i.jsxs)(r.Z,{align:"center",gap:8,className:"leading-[28px]",children:[(0,i.jsx)(t.Z,{style:{color:"var(--".concat(F,"-color-success)"),fontSize:18,margin:"0 3px"}}),R]});case"warning":case"confirm":return(0,i.jsxs)(r.Z,{align:"center",gap:8,className:"leading-[28px]",children:[(0,i.jsx)(x.Z,{style:{color:"var(--".concat(F,"-color-warning)"),fontSize:18,margin:"0 3px"}}),R]});case"info":return(0,i.jsxs)(r.Z,{align:"center",gap:8,className:"leading-[28px]",children:[(0,i.jsx)(g.Z,{style:{color:"var(--".concat(F,"-color-info)"),fontSize:18,margin:"0 3px"}}),R]});case"error":return(0,i.jsxs)(r.Z,{align:"center",gap:8,className:"leading-[28px]",children:[(0,i.jsx)(a.Z,{style:{color:"var(--".concat(F,"-color-error)"),fontSize:18,margin:"0 3px"}}),R]});default:return s.Z.get({id:"components.commonComponents.AlertDialog.Prompt",dm:"\u63D0\u793A"})}},w=h.children,S=h.type,T=S===void 0?"info":S,A=h.danger,E=A===void 0?!1:A,L=h.title,D=h.width,M=D===void 0?400:D,I=h.className,Z=I===void 0?"":I,j=u()(h,_);return{width:M,transitionName:"",restProps:j,closeIcon:null,title:f({type:T,title:L}),okButtonProps:{danger:T==="error"||T==="warning"||E},destroyOnClose:!0,className:C()(Z,"animate-in","".concat((0,P.getCommonConfig)().sparkPrefix,"-alert-dialog")),content:h.content||w,children:w}},b=function(h){var f=k(h),w=(0,y.useStyle)();return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(w,{}),(0,i.jsx)(c.Z,l()(l()({width:f.width,transitionName:""},f.restProps),{},{closeIcon:null,title:f.title,okButtonProps:f.okButtonProps||{},destroyOnClose:f.destroyOnClose,className:f.className,children:f.content||f.children}))]})},B=["success","info","warning","error","confirm"];B.forEach(function(v){b[v]=function(h){var f=k(l()(l()({},h),{},{type:v}));function w(){var S=(0,y.useStyle)();return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(S,{}),f.content]})}return c.Z.confirm(l()(l()(l()({},f),f.restProps),{},{content:(0,i.jsx)(w,{}),icon:null}))}}),n.default=b},25845:function(e,n,o){o.r(n),o.d(n,{useStyle:function(){return s}});var d=o(68400),l=o.n(d),m=o(3067),u,s=(0,m.Z)(u||(u=l()([`
+`])),function(o){return o.sparkPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix})},37339:function(e,n,t){"use strict";t.r(n);var s=t(97857),l=t.n(s),u=t(13769),c=t.n(u),i=t(23048),o=t(33495),f=t(52565),d=t(96406),a=t(55595),r=t(86250),m=t(85576),g=t(93967),y=t.n(g),b=t(93865),x=t(60218),p=t(85893),C=["children","type","danger","title","width","className"],k=function(h){var _=function(E){var z=E.type,F=E.title,N=(0,b.getCommonConfig)(),B=N.antPrefix;switch(z){case"success":return(0,p.jsxs)(r.Z,{align:"center",gap:8,className:"leading-[28px]",children:[(0,p.jsx)(o.Z,{style:{color:"var(--".concat(B,"-color-success)"),fontSize:18,margin:"0 3px"}}),F]});case"warning":case"confirm":return(0,p.jsxs)(r.Z,{align:"center",gap:8,className:"leading-[28px]",children:[(0,p.jsx)(f.Z,{style:{color:"var(--".concat(B,"-color-warning)"),fontSize:18,margin:"0 3px"}}),F]});case"info":return(0,p.jsxs)(r.Z,{align:"center",gap:8,className:"leading-[28px]",children:[(0,p.jsx)(d.Z,{style:{color:"var(--".concat(B,"-color-info)"),fontSize:18,margin:"0 3px"}}),F]});case"error":return(0,p.jsxs)(r.Z,{align:"center",gap:8,className:"leading-[28px]",children:[(0,p.jsx)(a.Z,{style:{color:"var(--".concat(B,"-color-error)"),fontSize:18,margin:"0 3px"}}),F]});default:return i.Z.get({id:"components.commonComponents.AlertDialog.Prompt",dm:"\u63D0\u793A"})}},P=h.children,R=h.type,T=R===void 0?"info":R,A=h.danger,O=A===void 0?!1:A,L=h.title,D=h.width,M=D===void 0?400:D,I=h.className,j=I===void 0?"":I,Z=c()(h,C);return{width:M,transitionName:"",restProps:Z,closeIcon:null,title:_({type:T,title:L}),okButtonProps:{danger:T==="error"||T==="warning"||O},destroyOnClose:!0,className:y()(j,"animate-in","".concat((0,b.getCommonConfig)().sparkPrefix,"-alert-dialog")),content:h.content||P,children:P}},v=function(h){var _=k(h),P=(0,x.useStyle)();return(0,p.jsxs)(p.Fragment,{children:[(0,p.jsx)(P,{}),(0,p.jsx)(m.Z,l()(l()({width:_.width,transitionName:""},_.restProps),{},{closeIcon:null,title:_.title,okButtonProps:_.okButtonProps||{},destroyOnClose:_.destroyOnClose,className:_.className,children:_.content||_.children}))]})},S=["success","info","warning","error","confirm"];S.forEach(function(w){v[w]=function(h){var _=k(l()(l()({},h),{},{type:w}));function P(){var R=(0,x.useStyle)();return(0,p.jsxs)(p.Fragment,{children:[(0,p.jsx)(R,{}),_.content]})}return m.Z.confirm(l()(l()(l()({},_),_.restProps),{},{content:(0,p.jsx)(P,{}),icon:null}))}}),n.default=v},25845:function(e,n,t){"use strict";t.r(n),t.d(n,{useStyle:function(){return i}});var s=t(68400),l=t.n(s),u=t(3067),c,i=(0,u.Z)(c||(c=l()([`
 .`,`-radio-button-wrapper {
   border: none;
   background-color: transparent;
@@ -83,7 +83,7 @@
     background-color: var(--`,`-color-fill-tertiary);
   }
 }
-`])),function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.sparkPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix},function(t){return t.antPrefix})},5626:function(e,n,o){o.r(n);var d=o(97857),l=o.n(d),m=o(93865),u=o(55742),s=o(93967),t=o.n(s),x=o(25845),g=o(85893);n.default=function(a){var r=(0,m.getCommonConfig)(),c=r.sparkPrefix,p=r.antPrefix,C=a.gap,P=C===void 0?12:C,y=a.bordered,i=y===void 0?!1:y,_=a.ghost,k=_===void 0?!0:_,b=(0,x.useStyle)();return(0,g.jsxs)(g.Fragment,{children:[(0,g.jsx)(b,{}),(0,g.jsx)(u.ZP.Group,l()(l()({},a),{},{className:t()(a.className,a.bordered?"".concat(c,"-radio-group-bordered"):"",k?"".concat(p,"-radio-group-ghost"):""),optionType:"button"}))]})}},23048:function(e,n,o){o.d(n,{Z:function(){return y}});var d=o(52677),l=o.n(d),m=o(27484),u=o.n(m),s=o(97857),t=o.n(s),x=JSON.parse('{"components.commonComponents.AlertDialog.Prompt":"Prompt","components.commonComponents.Pagination.PreviousPage":"Previous Page","components.commonComponents.Pagination.Items":"Items","components.commonComponents.Pagination.Page":"Page","components.commonComponents.Pagination.NextPage":"Next page","components.commonComponents.SlateEditor.TheNumberOfWordsCannot":"The number of words cannot exceed {wordLimit}.","components.commonComponents.SlateEditor.EnterHere":"Enter here","components.SlateEditor.utils.constant.Paragraph":"Paragraph","components.SlateEditor.utils.constant.Variable":"Variable","components.SlateEditor.utils.editor.TheSelectionRangeIsIncorrect":"The selection range is incorrect.","components.SlateEditor.utils.editor.WraptagnameCannotBePlacedIn":"[{wrapTagName}] cannot be placed in [{tagName}]","components.SlateEditor.utils.editor.WraptagnameCannotBeNestedIn":"[{wrapTagName}] cannot be nested in [{tagName}]]","components.SlateEditor.utils.withEditor.YouCanEnterAMaximum":"You can enter a maximum of {maxLen} characters.","components.commonComponents.Image.Preview":"Preview"}'),g=JSON.parse('{"components.commonComponents.AlertDialog.Prompt":"\u63D0\u793A","components.commonComponents.Pagination.PreviousPage":"\u4E0A\u4E00\u9875","components.commonComponents.Pagination.Items":"\u6761","components.commonComponents.Pagination.Page":"\u9875","components.commonComponents.Pagination.NextPage":"\u4E0B\u4E00\u9875","components.commonComponents.SlateEditor.TheNumberOfWordsCannot":"\u5B57\u6570\u4E0D\u80FD\u8D85\u8FC7{wordLimit}\u5B57","components.commonComponents.SlateEditor.EnterHere":"\u5728\u8FD9\u91CC\u8F93\u5165","components.SlateEditor.utils.constant.Paragraph":"\u6BB5\u843D","components.SlateEditor.utils.constant.Variable":"\u53D8\u91CF","components.SlateEditor.utils.editor.TheSelectionRangeIsIncorrect":"\u5212\u9009\u8303\u56F4\u6709\u8BEF","components.SlateEditor.utils.editor.WraptagnameCannotBePlacedIn":"\u3010{wrapTagName}\u3011\u4E0D\u80FD\u5728\u653E\u5728\u3010{tagName}\u3011\u5185","components.SlateEditor.utils.editor.WraptagnameCannotBeNestedIn":"\u3010{wrapTagName}\u3011\u4E2D\u4E0D\u80FD\u5D4C\u5957\u3010{tagName}\u3011","components.SlateEditor.utils.withEditor.YouCanEnterAMaximum":"\u6700\u591A\u53EF\u8F93\u5165{maxLen}\u5B57","components.commonComponents.Image.Preview":"\u9884\u89C8"}'),a={"en-US":t()({},x),"zh-CN":t()({},g)},r="zh-cn",c;function p(i){r=i,u().locale(r||"zh-cn")}var C=function(_,k){var b=r==="zh-cn"?"zh-CN":"en-US",B=a[b][_.id]||_.defaultString||"",v=B.replace(/\{(\w+)\}/g,function(h,f){return k[f]||h});return v};function P(i,_){return c||p(r),typeof i=="string"?C({id:i},_):(l()(i)==="object"&&i.dm&&(i.defaultMessage=i.dm),C({id:i.id,defaultString:i.dm},_))}var y={intl:c,get:P,updateLocale:p,language:r}},31988:function(e,n){n.Z=`import { Alert } from '@agentscope-ai/design';
+`])),function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.sparkPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix},function(o){return o.antPrefix})},5626:function(e,n,t){"use strict";t.r(n);var s=t(97857),l=t.n(s),u=t(93865),c=t(55742),i=t(93967),o=t.n(i),f=t(25845),d=t(85893);n.default=function(a){var r=(0,u.getCommonConfig)(),m=r.sparkPrefix,g=r.antPrefix,y=a.gap,b=y===void 0?12:y,x=a.bordered,p=x===void 0?!1:x,C=a.ghost,k=C===void 0?!0:C,v=(0,f.useStyle)();return(0,d.jsxs)(d.Fragment,{children:[(0,d.jsx)(v,{}),(0,d.jsx)(c.ZP.Group,l()(l()({},a),{},{className:o()(a.className,a.bordered?"".concat(m,"-radio-group-bordered"):"",k?"".concat(g,"-radio-group-ghost"):""),optionType:"button"}))]})}},93865:function(e,n,t){"use strict";t.r(n),t.d(n,{DEFAULT_ANT_PREFIX:function(){return o},DEFAULT_BL_PREFIX:function(){return f},DEFAULT_SPARK_PREFIX:function(){return d},getCommonConfig:function(){return g},setCommonConfig:function(){return m},useCommonConfig:function(){return y}});var s=t(5574),l=t.n(s),u=t(97857),c=t.n(u),i=t(67294),o="ant",f="bl",d="spark",a=[],r={antPrefix:o,blPrefix:f,sparkPrefix:d,configProviderProps:{},isDarkMode:!1};function m(b){Object.assign(r,b),requestAnimationFrame(function(){a.forEach(function(x){return x(c()({},r))})})}function g(){return r}function y(){var b=(0,i.useState)(function(){return g()}),x=l()(b,2),p=x[0],C=x[1];return(0,i.useLayoutEffect)(function(){var k=C;return a.push(k),function(){var v=a.findIndex(function(S){return S===k});v>=0&&a.splice(v,1)}},[]),p}},23048:function(e,n,t){"use strict";t.d(n,{Z:function(){return x}});var s=t(52677),l=t.n(s),u=t(27484),c=t.n(u),i=t(97857),o=t.n(i),f=JSON.parse('{"components.commonComponents.AlertDialog.Prompt":"Prompt","components.commonComponents.Pagination.PreviousPage":"Previous Page","components.commonComponents.Pagination.Items":"Items","components.commonComponents.Pagination.Page":"Page","components.commonComponents.Pagination.NextPage":"Next page","components.commonComponents.SlateEditor.TheNumberOfWordsCannot":"The number of words cannot exceed {wordLimit}.","components.commonComponents.SlateEditor.EnterHere":"Enter here","components.SlateEditor.utils.constant.Paragraph":"Paragraph","components.SlateEditor.utils.constant.Variable":"Variable","components.SlateEditor.utils.editor.TheSelectionRangeIsIncorrect":"The selection range is incorrect.","components.SlateEditor.utils.editor.WraptagnameCannotBePlacedIn":"[{wrapTagName}] cannot be placed in [{tagName}]","components.SlateEditor.utils.editor.WraptagnameCannotBeNestedIn":"[{wrapTagName}] cannot be nested in [{tagName}]]","components.SlateEditor.utils.withEditor.YouCanEnterAMaximum":"You can enter a maximum of {maxLen} characters.","components.commonComponents.Image.Preview":"Preview"}'),d=JSON.parse('{"components.commonComponents.AlertDialog.Prompt":"\u63D0\u793A","components.commonComponents.Pagination.PreviousPage":"\u4E0A\u4E00\u9875","components.commonComponents.Pagination.Items":"\u6761","components.commonComponents.Pagination.Page":"\u9875","components.commonComponents.Pagination.NextPage":"\u4E0B\u4E00\u9875","components.commonComponents.SlateEditor.TheNumberOfWordsCannot":"\u5B57\u6570\u4E0D\u80FD\u8D85\u8FC7{wordLimit}\u5B57","components.commonComponents.SlateEditor.EnterHere":"\u5728\u8FD9\u91CC\u8F93\u5165","components.SlateEditor.utils.constant.Paragraph":"\u6BB5\u843D","components.SlateEditor.utils.constant.Variable":"\u53D8\u91CF","components.SlateEditor.utils.editor.TheSelectionRangeIsIncorrect":"\u5212\u9009\u8303\u56F4\u6709\u8BEF","components.SlateEditor.utils.editor.WraptagnameCannotBePlacedIn":"\u3010{wrapTagName}\u3011\u4E0D\u80FD\u5728\u653E\u5728\u3010{tagName}\u3011\u5185","components.SlateEditor.utils.editor.WraptagnameCannotBeNestedIn":"\u3010{wrapTagName}\u3011\u4E2D\u4E0D\u80FD\u5D4C\u5957\u3010{tagName}\u3011","components.SlateEditor.utils.withEditor.YouCanEnterAMaximum":"\u6700\u591A\u53EF\u8F93\u5165{maxLen}\u5B57","components.commonComponents.Image.Preview":"\u9884\u89C8"}'),a={"en-US":o()({},f),"zh-CN":o()({},d)},r="zh-cn",m;function g(p){r=p,c().locale(r||"zh-cn")}var y=function(C,k){var v=r==="zh-cn"?"zh-CN":"en-US",S=a[v][C.id]||C.defaultString||"",w=S.replace(/\{(\w+)\}/g,function(h,_){return k[_]||h});return w};function b(p,C){return m||g(r),typeof p=="string"?y({id:p},C):(l()(p)==="object"&&p.dm&&(p.defaultMessage=p.dm),y({id:p.id,defaultString:p.dm},C))}var x={intl:m,get:b,updateLocale:g,language:r}},3067:function(e,n,t){"use strict";t.d(n,{Z:function(){return i}});var s=t(93865),l=t(30122),u=t(67294),c=t(85893);function i(){for(var o=arguments.length,f=new Array(o),d=0;d<o;d++)f[d]=arguments[d];return function(){var a=(0,s.useCommonConfig)(),r=a.sparkPrefix,m=a.antPrefix,g=a.blPrefix,y=l.vJ.apply(void 0,f),b=(0,u.useRef)(function(){return(0,c.jsx)(y,{sparkPrefix:r,antPrefix:m,blPrefix:g})});return b.current}}},31988:function(e,n){"use strict";n.Z=`import { Alert } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -94,7 +94,7 @@ export default () => {
     ></Alert>
   );
 };
-`},47053:function(e,n){n.Z=`import { Alert } from '@agentscope-ai/design';
+`},47053:function(e,n){"use strict";n.Z=`import { Alert } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
 export default () => {
@@ -123,7 +123,7 @@ export default () => {
     </Flex>
   );
 };
-`},90833:function(e,n){n.Z=`import { Alert } from '@agentscope-ai/design';
+`},90833:function(e,n){"use strict";n.Z=`import { Alert } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -134,7 +134,7 @@ export default () => {
     ></Alert>
   );
 };
-`},50340:function(e,n){n.Z=`import { Alert } from '@agentscope-ai/design';
+`},50340:function(e,n){"use strict";n.Z=`import { Alert } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -146,7 +146,7 @@ export default () => {
     ></Alert>
   );
 };
-`},6983:function(e,n){n.Z=`import { Alert, Button } from '@agentscope-ai/design';
+`},6983:function(e,n){"use strict";n.Z=`import { Alert, Button } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -163,7 +163,7 @@ export default () => {
     ></Alert>
   );
 };
-`},81150:function(e,n){n.Z=`import { Alert } from '@agentscope-ai/design';
+`},81150:function(e,n){"use strict";n.Z=`import { Alert } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
 export default () => {
@@ -193,7 +193,7 @@ export default () => {
     </>
   );
 };
-`},64441:function(e,n){n.Z=`import { Button } from '@agentscope-ai/design';
+`},64441:function(e,n){"use strict";n.Z=`import { Button } from '@agentscope-ai/design';
 import React from 'react';
 import AlertDialog from '..';
 
@@ -216,7 +216,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},6454:function(e,n){n.Z=`import { Button } from '@agentscope-ai/design';
+`},6454:function(e,n){"use strict";n.Z=`import { Button } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 import AlertDialog from '..';
@@ -273,7 +273,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},66607:function(e,n){n.Z=`import createGlobalStyle from '@/libs/createStyle';
+`},66607:function(e,n){"use strict";n.Z=`import createGlobalStyle from '@/libs/createStyle';
 
 export const useStyle = createGlobalStyle\`
 .\${(p) => p.sparkPrefix}-alert-dialog {
@@ -294,7 +294,7 @@ export const useStyle = createGlobalStyle\`
   }
 }
 \`;
-`},5416:function(e,n){n.Z=`import $i18n from '@/i18n';
+`},5416:function(e,n){"use strict";n.Z=`import $i18n from '@/i18n';
 import { ModalProps } from '@/index';
 import {
   CheckCircleOutlined,
@@ -499,7 +499,7 @@ export default AlertDialog as {
   error: (props?: AlertDialogStaticProps) => void;
   confirm: (props?: AlertDialogStaticProps) => void;
 };
-`},32193:function(e,n){n.Z=`import React from 'react';
+`},32193:function(e,n){"use strict";n.Z=`import React from 'react';
 import { Anchor } from '@agentscope-ai/design';
 
 const Demo1: React.FC = () => {
@@ -531,7 +531,7 @@ const Demo1: React.FC = () => {
 };
 
 export default Demo1;
-`},28925:function(e,n){n.Z=`import React from 'react';
+`},28925:function(e,n){"use strict";n.Z=`import React from 'react';
 import { Anchor } from '@agentscope-ai/design';
 
 const Demo1: React.FC = () => {
@@ -565,7 +565,7 @@ const Demo1: React.FC = () => {
 };
 
 export default Demo1;
-`},94633:function(e,n){n.Z=`import { Avatar } from '@agentscope-ai/design';
+`},94633:function(e,n){"use strict";n.Z=`import { Avatar } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -576,7 +576,7 @@ export default () => {
     />
   );
 };
-`},40558:function(e,n){n.Z=`import { Avatar } from '@agentscope-ai/design';
+`},40558:function(e,n){"use strict";n.Z=`import { Avatar } from '@agentscope-ai/design';
 import { Space, theme } from 'antd';
 
 export default () => {
@@ -607,7 +607,7 @@ export default () => {
     </Space>
   );
 };
-`},97383:function(e,n){n.Z=`import { Avatar } from '@agentscope-ai/design';
+`},97383:function(e,n){"use strict";n.Z=`import { Avatar } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -618,7 +618,7 @@ export default () => {
     />
   );
 };
-`},60966:function(e,n){n.Z=`import { Breadcrumb } from '@agentscope-ai/design';
+`},60966:function(e,n){"use strict";n.Z=`import { Breadcrumb } from '@agentscope-ai/design';
 import React from 'react';
 
 const App: React.FC = () => {
@@ -640,7 +640,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},41833:function(e,n){n.Z=`import { Breadcrumb } from '@agentscope-ai/design';
+`},41833:function(e,n){"use strict";n.Z=`import { Breadcrumb } from '@agentscope-ai/design';
 import React from 'react';
 
 const App: React.FC = () => {
@@ -669,7 +669,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},84113:function(e,n){n.Z=`import { Button } from '@agentscope-ai/design';
+`},84113:function(e,n){"use strict";n.Z=`import { Button } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
 export default () => {
@@ -694,7 +694,7 @@ export default () => {
     </Flex>
   );
 };
-`},49762:function(e,n){n.Z=`import { Button } from '@agentscope-ai/design';
+`},49762:function(e,n){"use strict";n.Z=`import { Button } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
 export default () => {
@@ -707,7 +707,7 @@ export default () => {
     </Flex>
   );
 };
-`},44667:function(e,n){n.Z=`import { Button } from '@agentscope-ai/design';
+`},44667:function(e,n){"use strict";n.Z=`import { Button } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
 export default () => {
@@ -718,7 +718,7 @@ export default () => {
     </Flex>
   );
 };
-`},98984:function(e,n){n.Z=`import { Button } from '@agentscope-ai/design';
+`},98984:function(e,n){"use strict";n.Z=`import { Button } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
 export default () => {
@@ -731,7 +731,7 @@ export default () => {
     </Flex>
   );
 };
-`},94692:function(e,n){n.Z=`import { Button } from '@agentscope-ai/design';
+`},94692:function(e,n){"use strict";n.Z=`import { Button } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
 export default () => {
@@ -744,7 +744,7 @@ export default () => {
     </Flex>
   );
 };
-`},2709:function(e,n){n.Z=`import { Button } from '@agentscope-ai/design';
+`},2709:function(e,n){"use strict";n.Z=`import { Button } from '@agentscope-ai/design';
 import { SparkPlusLine } from '@agentscope-ai/icons';
 import { Flex } from 'antd';
 
@@ -798,7 +798,7 @@ export default () => {
     </Flex>
   );
 };
-`},31515:function(e,n){n.Z=`import { Card } from '@agentscope-ai/design';
+`},31515:function(e,n){"use strict";n.Z=`import { Card } from '@agentscope-ai/design';
 import { theme } from 'antd';
 
 export default () => {
@@ -822,7 +822,7 @@ export default () => {
     </Card>
   );
 };
-`},68597:function(e,n){n.Z=`import { Card } from '@agentscope-ai/design';
+`},68597:function(e,n){"use strict";n.Z=`import { Card } from '@agentscope-ai/design';
 import { theme } from 'antd';
 
 export default () => {
@@ -846,7 +846,7 @@ export default () => {
     </Card>
   );
 };
-`},6929:function(e,n){n.Z=`import { Checkbox, CheckboxProps } from '@agentscope-ai/design';
+`},6929:function(e,n){"use strict";n.Z=`import { Checkbox, CheckboxProps } from '@agentscope-ai/design';
 import React from 'react';
 
 const onChange: CheckboxProps['onChange'] = (e) => {
@@ -868,7 +868,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},52015:function(e,n){n.Z=`import {
+`},52015:function(e,n){"use strict";n.Z=`import {
   Checkbox,
   CheckboxProps,
 } from '@agentscope-ai/design';
@@ -890,7 +890,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},47202:function(e,n){n.Z=`import {
+`},47202:function(e,n){"use strict";n.Z=`import {
   Checkbox,
   CheckboxProps,
 } from '@agentscope-ai/design';
@@ -914,7 +914,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},17033:function(e,n){n.Z=`import { CodeBlock, CollapsePanel, message } from '@agentscope-ai/design';
+`},17033:function(e,n){"use strict";n.Z=`import { CodeBlock, CollapsePanel, message } from '@agentscope-ai/design';
 import { SparkCode01Line, SparkCopyLine } from '@agentscope-ai/icons';
 import { Flex } from 'antd';
 import React from 'react';
@@ -962,7 +962,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},73614:function(e,n){n.Z=`import { CodeBlock } from '@agentscope-ai/design';
+`},73614:function(e,n){"use strict";n.Z=`import { CodeBlock } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 
@@ -984,7 +984,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},62179:function(e,n){n.Z=`import { CodeBlock, CollapsePanel, message } from '@agentscope-ai/design';
+`},62179:function(e,n){"use strict";n.Z=`import { CodeBlock, CollapsePanel, message } from '@agentscope-ai/design';
 import { SparkCode01Line, SparkCopyLine } from '@agentscope-ai/icons';
 import { Flex } from 'antd';
 import React from 'react';
@@ -1032,7 +1032,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},11632:function(e,n){n.Z=`import { Collapse, CollapseProps } from '@agentscope-ai/design';
+`},11632:function(e,n){"use strict";n.Z=`import { Collapse, CollapseProps } from '@agentscope-ai/design';
 
 export default () => {
   const items: CollapseProps['items'] = [
@@ -1057,7 +1057,7 @@ export default () => {
     <Collapse items={items} defaultActiveKey={[0]} style={{ width: 480 }} />
   );
 };
-`},8850:function(e,n){n.Z=`import { Collapse, CollapseProps } from '@agentscope-ai/design';
+`},8850:function(e,n){"use strict";n.Z=`import { Collapse, CollapseProps } from '@agentscope-ai/design';
 import { SparkSettingLine } from '@agentscope-ai/icons';
 
 export default () => {
@@ -1107,7 +1107,7 @@ export default () => {
     <Collapse items={items} defaultActiveKey={[0]} style={{ width: 480 }} />
   );
 };
-`},99373:function(e,n){n.Z=`import { CollapsePanel } from '@agentscope-ai/design';
+`},99373:function(e,n){"use strict";n.Z=`import { CollapsePanel } from '@agentscope-ai/design';
 import { SparkCopyLine } from '@agentscope-ai/icons';
 import { Flex } from 'antd';
 import React from 'react';
@@ -1198,7 +1198,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},56782:function(e,n){n.Z=`import { DatePicker } from '@agentscope-ai/design';
+`},56782:function(e,n){"use strict";n.Z=`import { DatePicker } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import dayjs from 'dayjs';
 import customParseFormat from 'dayjs/plugin/customParseFormat';
@@ -1223,7 +1223,7 @@ export default () => {
     </Flex>
   );
 };
-`},71994:function(e,n){n.Z=`import { DatePicker } from '@agentscope-ai/design';
+`},71994:function(e,n){"use strict";n.Z=`import { DatePicker } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import dayjs from 'dayjs';
 import customParseFormat from 'dayjs/plugin/customParseFormat';
@@ -1244,7 +1244,7 @@ export default () => {
     </Flex>
   );
 };
-`},14155:function(e,n){n.Z=`import { DatePicker } from '@agentscope-ai/design';
+`},14155:function(e,n){"use strict";n.Z=`import { DatePicker } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import dayjs from 'dayjs';
 import customParseFormat from 'dayjs/plugin/customParseFormat';
@@ -1285,7 +1285,7 @@ export default () => {
     </Flex>
   );
 };
-`},96358:function(e,n){n.Z=`import { DatePicker } from '@agentscope-ai/design';
+`},96358:function(e,n){"use strict";n.Z=`import { DatePicker } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import type { Dayjs } from 'dayjs';
 import dayjs from 'dayjs';
@@ -1328,7 +1328,7 @@ export default () => {
     </Flex>
   );
 };
-`},71555:function(e,n){n.Z=`import { Descriptions, DescriptionsProps } from '@agentscope-ai/design';
+`},71555:function(e,n){"use strict";n.Z=`import { Descriptions, DescriptionsProps } from '@agentscope-ai/design';
 
 export default () => {
   const items: DescriptionsProps['items'] = [
@@ -1366,7 +1366,7 @@ export default () => {
 
   return <Descriptions items={items} />;
 };
-`},1270:function(e,n){n.Z=`import { Descriptions, DescriptionsProps } from '@agentscope-ai/design';
+`},1270:function(e,n){"use strict";n.Z=`import { Descriptions, DescriptionsProps } from '@agentscope-ai/design';
 
 export default () => {
   const items: DescriptionsProps['items'] = [
@@ -1404,7 +1404,7 @@ export default () => {
 
   return <Descriptions items={items} layout="vertical" />;
 };
-`},22867:function(e,n){n.Z=`import { Button, Drawer } from '@agentscope-ai/design';
+`},22867:function(e,n){"use strict";n.Z=`import { Button, Drawer } from '@agentscope-ai/design';
 import { useState } from 'react';
 
 export default () => {
@@ -1451,7 +1451,7 @@ export default () => {
     </>
   );
 };
-`},16858:function(e,n){n.Z=`import React, { useState } from 'react';
+`},16858:function(e,n){"use strict";n.Z=`import React, { useState } from 'react';
 import { Button, Drawer, DrawerProps } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
@@ -1516,7 +1516,7 @@ const Demo: React.FC = () => {
 };
 
 export default Demo;
-`},921:function(e,n){n.Z=`import { Button, Drawer } from '@agentscope-ai/design';
+`},921:function(e,n){"use strict";n.Z=`import { Button, Drawer } from '@agentscope-ai/design';
 import { useState } from 'react';
 
 export default () => {
@@ -1574,7 +1574,7 @@ export default () => {
     </>
   );
 };
-`},1156:function(e,n){n.Z=`import { Button, Drawer } from '@agentscope-ai/design';
+`},1156:function(e,n){"use strict";n.Z=`import { Button, Drawer } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import { useState } from 'react';
 
@@ -1671,7 +1671,7 @@ export default () => {
     </Flex>
   );
 };
-`},29246:function(e,n){n.Z=`import { Button, Drawer } from '@agentscope-ai/design';
+`},29246:function(e,n){"use strict";n.Z=`import { Button, Drawer } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import { useState } from 'react';
 
@@ -1730,7 +1730,7 @@ export default () => {
     </Flex>
   );
 };
-`},38984:function(e,n){n.Z=`import React from 'react';
+`},38984:function(e,n){"use strict";n.Z=`import React from 'react';
 import { Button, Dropdown } from '@agentscope-ai/design';
 
 const DropdownDemo: React.FC = () => {
@@ -1760,7 +1760,7 @@ const DropdownDemo: React.FC = () => {
 };
 
 export default DropdownDemo;
-`},41001:function(e,n){n.Z=`import React from 'react';
+`},41001:function(e,n){"use strict";n.Z=`import React from 'react';
 import { Dropdown, Button } from '@agentscope-ai/design';
 import { SparkTreasureLine } from '@agentscope-ai/icons';
 
@@ -1797,7 +1797,7 @@ const Demo2: React.FC = () => {
   );
 };
 
-export default Demo2;`},68484:function(e,n){n.Z=`import React from 'react';
+export default Demo2;`},68484:function(e,n){"use strict";n.Z=`import React from 'react';
 import { Dropdown, Button } from '@agentscope-ai/design';
 import { SparkTreasureLine, SparkDeleteLine } from '@agentscope-ai/icons';
 
@@ -1832,7 +1832,7 @@ const Demo3: React.FC = () => {
 };
 
 export default Demo3;
-`},36788:function(e,n){n.Z=`import { Empty } from '@agentscope-ai/design';
+`},36788:function(e,n){"use strict";n.Z=`import { Empty } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -1844,7 +1844,7 @@ export default () => {
     />
   );
 };
-`},3430:function(e,n){n.Z=`import { Empty } from '@agentscope-ai/design';
+`},3430:function(e,n){"use strict";n.Z=`import { Empty } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -1856,7 +1856,7 @@ export default () => {
     />
   );
 };
-`},7276:function(e,n){n.Z=`import { Empty } from '@agentscope-ai/design';
+`},7276:function(e,n){"use strict";n.Z=`import { Empty } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
 export default () => {
@@ -1914,7 +1914,7 @@ export default () => {
     </div>
   );
 };
-`},65974:function(e,n){n.Z=`import { FloatButton } from '@agentscope-ai/design';
+`},65974:function(e,n){"use strict";n.Z=`import { FloatButton } from '@agentscope-ai/design';
 import { SparkProblemLine } from '@agentscope-ai/icons';
 import React from 'react';
 
@@ -1926,7 +1926,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},2352:function(e,n){n.Z=`import { FloatButton } from '@agentscope-ai/design';
+`},2352:function(e,n){"use strict";n.Z=`import { FloatButton } from '@agentscope-ai/design';
 import { SparkProblemLine } from '@agentscope-ai/icons';
 import React from 'react';
 
@@ -1939,7 +1939,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},21014:function(e,n){n.Z=`import { Form, Input, Radio, Switch } from '@agentscope-ai/design';
+`},21014:function(e,n){"use strict";n.Z=`import { Form, Input, Radio, Switch } from '@agentscope-ai/design';
 
 export default () => {
   const [form] = Form.useForm();
@@ -1966,7 +1966,7 @@ export default () => {
     </Form>
   );
 };
-`},73442:function(e,n){n.Z=`import { Form, Input, Radio, Switch } from '@agentscope-ai/design';
+`},73442:function(e,n){"use strict";n.Z=`import { Form, Input, Radio, Switch } from '@agentscope-ai/design';
 
 export default () => {
   const [form] = Form.useForm();
@@ -1993,7 +1993,7 @@ export default () => {
     </Form>
   );
 };
-`},67301:function(e,n){n.Z=`import { IconButton } from '@agentscope-ai/design';
+`},67301:function(e,n){"use strict";n.Z=`import { IconButton } from '@agentscope-ai/design';
 import {
   SparkPlusLine,
   SparkSearchLine,
@@ -2017,7 +2017,7 @@ export default () => {
     </Flex>
   );
 };
-`},83512:function(e,n){n.Z=`import React from 'react';
+`},83512:function(e,n){"use strict";n.Z=`import React from 'react';
 import { Flex } from 'antd';
 import { IconButton } from '@agentscope-ai/design';
 import { SparkPlusLine } from '@agentscope-ai/icons';
@@ -2049,7 +2049,7 @@ const Demo2: React.FC = () => {
 };
 
 export default Demo2;
-`},88323:function(e,n){n.Z=`import React from 'react';
+`},88323:function(e,n){"use strict";n.Z=`import React from 'react';
 import { Flex } from 'antd';
 import { IconButton } from '@agentscope-ai/design';
 import { SparkPlusLine } from '@agentscope-ai/icons';
@@ -2088,7 +2088,7 @@ const Demo3: React.FC = () => {
 };
 
 export default Demo3;
-`},54233:function(e,n){n.Z=`import { Image } from '@agentscope-ai/design';
+`},54233:function(e,n){"use strict";n.Z=`import { Image } from '@agentscope-ai/design';
 
 export default function () {
   return (
@@ -2098,7 +2098,7 @@ export default function () {
     />
   );
 }
-`},68684:function(e,n){n.Z=`import { Input } from '@agentscope-ai/design';
+`},68684:function(e,n){"use strict";n.Z=`import { Input } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 
@@ -2111,7 +2111,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},36465:function(e,n){n.Z=`import { Input } from '@agentscope-ai/design';
+`},36465:function(e,n){"use strict";n.Z=`import { Input } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 
@@ -2124,7 +2124,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},53458:function(e,n){n.Z=`import { Input } from '@agentscope-ai/design';
+`},53458:function(e,n){"use strict";n.Z=`import { Input } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 
@@ -2137,7 +2137,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},64562:function(e,n){n.Z=`import { Input } from '@agentscope-ai/design';
+`},64562:function(e,n){"use strict";n.Z=`import { Input } from '@agentscope-ai/design';
 import { SparkSearchLine } from '@agentscope-ai/icons';
 import { Flex } from 'antd';
 import React from 'react';
@@ -2162,7 +2162,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},45989:function(e,n){n.Z=`import { Input } from '@agentscope-ai/design';
+`},45989:function(e,n){"use strict";n.Z=`import { Input } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 
@@ -2181,7 +2181,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},49447:function(e,n){n.Z=`import { Input } from '@agentscope-ai/design';
+`},49447:function(e,n){"use strict";n.Z=`import { Input } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React, { useState } from 'react';
 
@@ -2208,7 +2208,7 @@ const App: React.FC = () => {
   );
 };
 export default App;
-`},65514:function(e,n){n.Z=`import { Input } from '@agentscope-ai/design';
+`},65514:function(e,n){"use strict";n.Z=`import { Input } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 
@@ -2243,7 +2243,7 @@ const App: React.FC = () => {
   );
 };
 export default App;
-`},93746:function(e,n){n.Z=`import { InputNumber } from '@agentscope-ai/design';
+`},93746:function(e,n){"use strict";n.Z=`import { InputNumber } from '@agentscope-ai/design';
 import type { InputNumberProps } from 'antd';
 import { Flex } from 'antd';
 import React from 'react';
@@ -2273,7 +2273,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},75579:function(e,n){n.Z=`import { InputNumber } from '@agentscope-ai/design';
+`},75579:function(e,n){"use strict";n.Z=`import { InputNumber } from '@agentscope-ai/design';
 import type { InputNumberProps } from 'antd';
 import { Flex } from 'antd';
 
@@ -2318,7 +2318,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},93086:function(e,n){n.Z=`import { message, Button } from '@agentscope-ai/design';
+`},93086:function(e,n){"use strict";n.Z=`import { message, Button } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -2331,7 +2331,7 @@ export default () => {
     </Button>
   );
 };
-`},87497:function(e,n){n.Z=`import { message, Button } from '@agentscope-ai/design';
+`},87497:function(e,n){"use strict";n.Z=`import { message, Button } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
 export default () => {
@@ -2379,7 +2379,7 @@ export default () => {
     </Flex>
   );
 };
-`},5195:function(e,n){n.Z=`import { message, Button } from '@agentscope-ai/design';
+`},5195:function(e,n){"use strict";n.Z=`import { message, Button } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
 export default () => {
@@ -2411,7 +2411,7 @@ export default () => {
     </Flex>
   );
 };
-`},7940:function(e,n){n.Z=`import { Button, Modal } from '@agentscope-ai/design';
+`},7940:function(e,n){"use strict";n.Z=`import { Button, Modal } from '@agentscope-ai/design';
 import { useState } from 'react';
 
 export default function () {
@@ -2452,7 +2452,7 @@ export default function () {
     </>
   );
 }
-`},4139:function(e,n){n.Z=`import { Button, Modal } from '@agentscope-ai/design';
+`},4139:function(e,n){"use strict";n.Z=`import { Button, Modal } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import { useState } from 'react';
 
@@ -2571,7 +2571,7 @@ export default function () {
     </Flex>
   );
 }
-`},17517:function(e,n){n.Z=`import { Button, Modal } from '@agentscope-ai/design';
+`},17517:function(e,n){"use strict";n.Z=`import { Button, Modal } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import { useState } from 'react';
 
@@ -2626,7 +2626,7 @@ export default function () {
     </Flex>
   );
 }
-`},44373:function(e,n){n.Z=`import { Button, notification } from '@agentscope-ai/design';
+`},44373:function(e,n){"use strict";n.Z=`import { Button, notification } from '@agentscope-ai/design';
 import React from 'react';
 
 const App: React.FC = () => {
@@ -2641,7 +2641,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},11023:function(e,n){n.Z=`import { Button, notification } from '@agentscope-ai/design';
+`},11023:function(e,n){"use strict";n.Z=`import { Button, notification } from '@agentscope-ai/design';
 import React from 'react';
 
 const App: React.FC = () => {
@@ -2659,7 +2659,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},37237:function(e,n){n.Z=`import { Button, notification } from '@agentscope-ai/design';
+`},37237:function(e,n){"use strict";n.Z=`import { Button, notification } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 
@@ -2690,7 +2690,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},9394:function(e,n){n.Z=`import { Button, notification } from '@agentscope-ai/design';
+`},9394:function(e,n){"use strict";n.Z=`import { Button, notification } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 
@@ -2760,7 +2760,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},43657:function(e,n){n.Z=`import { Pagination } from '@agentscope-ai/design';
+`},43657:function(e,n){"use strict";n.Z=`import { Pagination } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 
@@ -2777,7 +2777,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},76246:function(e,n){n.Z=`import { Pagination } from '@agentscope-ai/design';
+`},76246:function(e,n){"use strict";n.Z=`import { Pagination } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 
@@ -2795,7 +2795,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},36821:function(e,n){n.Z=`import { Button, Popconfirm } from '@agentscope-ai/design';
+`},36821:function(e,n){"use strict";n.Z=`import { Button, Popconfirm } from '@agentscope-ai/design';
 
 import React from 'react';
 
@@ -2809,7 +2809,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},94274:function(e,n){n.Z=`import { Button, Popconfirm } from '@agentscope-ai/design';
+`},94274:function(e,n){"use strict";n.Z=`import { Button, Popconfirm } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
 import React from 'react';
@@ -2856,7 +2856,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},27047:function(e,n){n.Z=`import { Button, Popover } from '@agentscope-ai/design';
+`},27047:function(e,n){"use strict";n.Z=`import { Button, Popover } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 
@@ -2883,7 +2883,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},3087:function(e,n){n.Z=`import { Progress } from '@agentscope-ai/design';
+`},3087:function(e,n){"use strict";n.Z=`import { Progress } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 
@@ -2894,7 +2894,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},44205:function(e,n){n.Z=`import { PromptsEditor } from '@agentscope-ai/design';
+`},44205:function(e,n){"use strict";n.Z=`import { PromptsEditor } from '@agentscope-ai/design';
 import { useState } from 'react';
 
 export default function Basic() {
@@ -2928,7 +2928,7 @@ export default function Basic() {
     />
   );
 }
-`},91695:function(e,n){n.Z=`import { Radio } from '@agentscope-ai/design';
+`},91695:function(e,n){"use strict";n.Z=`import { Radio } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 
@@ -2944,7 +2944,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},44790:function(e,n){n.Z=`import type { RadioChangeEvent } from 'antd';
+`},44790:function(e,n){"use strict";n.Z=`import type { RadioChangeEvent } from 'antd';
 import { Flex } from 'antd';
 import React from 'react';
 import RadioButton from '../index';
@@ -2979,7 +2979,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},30819:function(e,n){n.Z=`import type { RadioChangeEvent } from 'antd';
+`},30819:function(e,n){"use strict";n.Z=`import type { RadioChangeEvent } from 'antd';
 import { Flex, Radio } from 'antd';
 import React from 'react';
 import RadioButton from '../index';
@@ -3011,7 +3011,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},63413:function(e,n){n.Z=`import type { RadioChangeEvent } from 'antd';
+`},63413:function(e,n){"use strict";n.Z=`import type { RadioChangeEvent } from 'antd';
 import { Flex } from 'antd';
 import React from 'react';
 import RadioButton from '../index';
@@ -3049,7 +3049,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},52150:function(e,n){n.Z=`import createGlobalStyle from '@/libs/createStyle';
+`},52150:function(e,n){"use strict";n.Z=`import createGlobalStyle from '@/libs/createStyle';
 
 export const useStyle = createGlobalStyle\`
 .\${(p) => p.antPrefix}-radio-button-wrapper {
@@ -3121,7 +3121,7 @@ export const useStyle = createGlobalStyle\`
   }
 }
 \`;
-`},70064:function(e,n){n.Z=`import { getCommonConfig } from '@/config';
+`},70064:function(e,n){"use strict";n.Z=`import { getCommonConfig } from '@/config';
 import { Radio, RadioGroupProps } from 'antd';
 import cls from 'classnames';
 import { useStyle } from './index.style';
@@ -3168,7 +3168,7 @@ export default (props: SparkRadioButtonProps) => {
     </>
   );
 };
-`},64001:function(e,n){n.Z=`import { Result } from '@agentscope-ai/design';
+`},64001:function(e,n){"use strict";n.Z=`import { Result } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -3180,7 +3180,7 @@ export default () => {
     />
   );
 };
-`},52582:function(e,n){n.Z=`import { Result } from '@agentscope-ai/design';
+`},52582:function(e,n){"use strict";n.Z=`import { Result } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -3191,7 +3191,7 @@ export default () => {
       okText="Retry"
     />
   );
-};`},14657:function(e,n){n.Z=`import { Result } from '@agentscope-ai/design';
+};`},14657:function(e,n){"use strict";n.Z=`import { Result } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -3202,7 +3202,7 @@ export default () => {
       okText="Retry"
     />
   );
-};`},82509:function(e,n){n.Z=`import { Result } from '@agentscope-ai/design';
+};`},82509:function(e,n){"use strict";n.Z=`import { Result } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -3213,7 +3213,7 @@ export default () => {
       okText="Retry"
     />
   );
-};`},92495:function(e,n){n.Z=`import { Result } from '@agentscope-ai/design';
+};`},92495:function(e,n){"use strict";n.Z=`import { Result } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -3224,7 +3224,7 @@ export default () => {
       okText="Retry"
     />
   );
-};`},67866:function(e,n){n.Z=`import { Result } from '@agentscope-ai/design';
+};`},67866:function(e,n){"use strict";n.Z=`import { Result } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -3235,7 +3235,7 @@ export default () => {
       okText="Retry"
     />
   );
-};`},99902:function(e,n){n.Z=`import { Select } from '@agentscope-ai/design';
+};`},99902:function(e,n){"use strict";n.Z=`import { Select } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
 const handleChange = (value: string) => {
@@ -3291,7 +3291,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},74918:function(e,n){n.Z=`import { Select } from '@agentscope-ai/design';
+`},74918:function(e,n){"use strict";n.Z=`import { Select } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
 const handleChange = (value: string) => {
@@ -3349,7 +3349,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},75474:function(e,n){n.Z=`import { Skeleton } from '@agentscope-ai/design';
+`},75474:function(e,n){"use strict";n.Z=`import { Skeleton } from '@agentscope-ai/design';
 import React from 'react';
 
 const App: React.FC = () => (
@@ -3363,7 +3363,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},4205:function(e,n){n.Z=`import { Slider } from 'antd';
+`},4205:function(e,n){"use strict";n.Z=`import { Slider } from 'antd';
 import React from 'react';
 
 const App: React.FC = () => {
@@ -3380,7 +3380,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},14613:function(e,n){n.Z=`import { Slider } from 'antd';
+`},14613:function(e,n){"use strict";n.Z=`import { Slider } from 'antd';
 import React from 'react';
 
 const App: React.FC = () => {
@@ -3397,7 +3397,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},42832:function(e,n){n.Z=`import { Slider } from 'antd';
+`},42832:function(e,n){"use strict";n.Z=`import { Slider } from 'antd';
 import React from 'react';
 
 const App: React.FC = () => {
@@ -3414,7 +3414,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},58927:function(e,n){n.Z=`import { Slider } from '@agentscope-ai/design';
+`},58927:function(e,n){"use strict";n.Z=`import { Slider } from '@agentscope-ai/design';
 import React, { useState } from 'react';
 
 const App: React.FC = () => {
@@ -3442,7 +3442,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},22611:function(e,n){n.Z=`import { Slider } from '@agentscope-ai/design';
+`},22611:function(e,n){"use strict";n.Z=`import { Slider } from '@agentscope-ai/design';
 import React, { useState } from 'react';
 
 const App: React.FC = () => {
@@ -3471,7 +3471,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},60543:function(e,n){n.Z=`import { Spinner } from '@agentscope-ai/design';
+`},60543:function(e,n){"use strict";n.Z=`import { Spinner } from '@agentscope-ai/design';
 import { theme } from 'antd';
 
 const App: React.FC = () => {
@@ -3493,7 +3493,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},44013:function(e,n){n.Z=`import { Button, Progress, Spinner } from '@agentscope-ai/design';
+`},44013:function(e,n){"use strict";n.Z=`import { Button, Progress, Spinner } from '@agentscope-ai/design';
 import { theme } from 'antd';
 import React, { useEffect, useRef, useState } from 'react';
 
@@ -3561,7 +3561,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},48040:function(e,n){n.Z=`import { Button, Progress, Spinner } from '@agentscope-ai/design';
+`},48040:function(e,n){"use strict";n.Z=`import { Button, Progress, Spinner } from '@agentscope-ai/design';
 import { theme } from 'antd';
 import React, { useEffect, useState } from 'react';
 
@@ -3611,7 +3611,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},7091:function(e,n){n.Z=`import { Button, Progress, Spinner } from '@agentscope-ai/design';
+`},7091:function(e,n){"use strict";n.Z=`import { Button, Progress, Spinner } from '@agentscope-ai/design';
 import { theme } from 'antd';
 import React, { useEffect, useRef, useState } from 'react';
 
@@ -3706,7 +3706,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},26819:function(e,n){n.Z=`import { Statistic } from '@agentscope-ai/design';
+`},26819:function(e,n){"use strict";n.Z=`import { Statistic } from '@agentscope-ai/design';
 
 export default () => {
   return (
@@ -3716,7 +3716,7 @@ export default () => {
     </div>
   );
 };
-`},87913:function(e,n){n.Z=`import { Statistic } from '@agentscope-ai/design';
+`},87913:function(e,n){"use strict";n.Z=`import { Statistic } from '@agentscope-ai/design';
 import { SparkPieChartLine } from '@agentscope-ai/icons';
 
 export default () => {
@@ -3735,7 +3735,7 @@ export default () => {
     </div>
   );
 };
-`},81751:function(e,n){n.Z=`import { Steps } from '@agentscope-ai/design';
+`},81751:function(e,n){"use strict";n.Z=`import { Steps } from '@agentscope-ai/design';
 import React, { useState } from 'react';
 
 const App: React.FC = () => {
@@ -3764,7 +3764,7 @@ const App: React.FC = () => {
   );
 };
 
-export default App;`},64746:function(e,n){n.Z=`import { Steps } from '@agentscope-ai/design';
+export default App;`},64746:function(e,n){"use strict";n.Z=`import { Steps } from '@agentscope-ai/design';
 import React, { useState } from 'react';
 
 const App: React.FC = () => {
@@ -3796,7 +3796,7 @@ const App: React.FC = () => {
   );
 };
 
-export default App;`},81162:function(e,n){n.Z=`import { Steps } from '@agentscope-ai/design';
+export default App;`},81162:function(e,n){"use strict";n.Z=`import { Steps } from '@agentscope-ai/design';
 import React, { useState } from 'react';
 
 const App: React.FC = () => {
@@ -3826,7 +3826,7 @@ const App: React.FC = () => {
   );
 };
 
-export default App;`},6438:function(e,n){n.Z=`import { Switch } from '@agentscope-ai/design';
+export default App;`},6438:function(e,n){"use strict";n.Z=`import { Switch } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import { useState } from 'react';
 
@@ -3844,7 +3844,7 @@ export default () => {
     </Flex>
   );
 };
-`},16850:function(e,n){n.Z=`import { Switch } from '@agentscope-ai/design';
+`},16850:function(e,n){"use strict";n.Z=`import { Switch } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import { useState } from 'react';
 
@@ -3866,7 +3866,7 @@ export default () => {
     </Flex>
   );
 };
-`},93495:function(e,n){n.Z=`import { getCommonConfig, Switch, Table, Tag } from '@agentscope-ai/design';
+`},93495:function(e,n){"use strict";n.Z=`import { getCommonConfig, Switch, Table, Tag } from '@agentscope-ai/design';
 import { SparkCheckCircleFill } from '@agentscope-ai/icons';
 import { Flex, Space } from 'antd';
 import React, { useState } from 'react';
@@ -3977,7 +3977,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},49160:function(e,n){n.Z=`import { getCommonConfig, Switch, Table, Tag } from '@agentscope-ai/design';
+`},49160:function(e,n){"use strict";n.Z=`import { getCommonConfig, Switch, Table, Tag } from '@agentscope-ai/design';
 import { SparkCheckCircleFill } from '@agentscope-ai/icons';
 import type { TableProps } from 'antd';
 import { Flex, Space } from 'antd';
@@ -4115,7 +4115,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},98264:function(e,n){n.Z=`import { getCommonConfig, Switch, Table, Tag } from '@agentscope-ai/design';
+`},98264:function(e,n){"use strict";n.Z=`import { getCommonConfig, Switch, Table, Tag } from '@agentscope-ai/design';
 import { SparkCheckCircleFill } from '@agentscope-ai/icons';
 import type { TableProps } from 'antd';
 import { Flex, Space } from 'antd';
@@ -4255,7 +4255,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},58833:function(e,n){n.Z=`import { getCommonConfig, Switch, Table, Tag } from '@agentscope-ai/design';
+`},58833:function(e,n){"use strict";n.Z=`import { getCommonConfig, Switch, Table, Tag } from '@agentscope-ai/design';
 import { SparkCheckCircleFill } from '@agentscope-ai/icons';
 import type { TableProps } from 'antd';
 import { Flex, Space } from 'antd';
@@ -4383,7 +4383,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},46790:function(e,n){n.Z=`import { Tabs, type TabsProps } from '@agentscope-ai/design';
+`},46790:function(e,n){"use strict";n.Z=`import { Tabs, type TabsProps } from '@agentscope-ai/design';
 import React from 'react';
 
 const onChange = (key: string) => {
@@ -4415,7 +4415,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},41119:function(e,n){n.Z=`import { Tabs, type TabsProps } from '@agentscope-ai/design';
+`},41119:function(e,n){"use strict";n.Z=`import { Tabs, type TabsProps } from '@agentscope-ai/design';
 import React from 'react';
 
 const onChange = (key: string) => {
@@ -4472,7 +4472,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},39199:function(e,n){n.Z=`import { Tabs, type TabsProps } from '@agentscope-ai/design';
+`},39199:function(e,n){"use strict";n.Z=`import { Tabs, type TabsProps } from '@agentscope-ai/design';
 import React from 'react';
 
 const onChange = (key: string) => {
@@ -4515,7 +4515,7 @@ const App: React.FC = () => {
 };
 
 export default App;
-`},50477:function(e,n){n.Z=`import { Tag, type TagProps } from '@agentscope-ai/design';
+`},50477:function(e,n){"use strict";n.Z=`import { Tag, type TagProps } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 
 const COLOR_LIST: TagProps['color'][] = [
@@ -4541,7 +4541,7 @@ export default () => {
     </Flex>
   );
 };
-`},86253:function(e,n){n.Z=`import { Tag } from '@agentscope-ai/design';
+`},86253:function(e,n){"use strict";n.Z=`import { Tag } from '@agentscope-ai/design';
 import { SparkEffciencyLine } from '@agentscope-ai/icons';
 
 export default () => {
@@ -4549,7 +4549,7 @@ export default () => {
     <Tag icon={<SparkEffciencyLine style={{ fontSize: '20px' }} />}>Tag MD</Tag>
   );
 };
-`},38004:function(e,n){n.Z=`import { Tag } from '@agentscope-ai/design';
+`},38004:function(e,n){"use strict";n.Z=`import { Tag } from '@agentscope-ai/design';
 import { SparkEffciencyLine, SparkFalseLine } from '@agentscope-ai/icons';
 import { Flex } from 'antd';
 
@@ -4568,7 +4568,7 @@ export default () => {
     </Flex>
   );
 };
-`},81540:function(e,n){n.Z=`import { TimePicker } from '@agentscope-ai/design';
+`},81540:function(e,n){"use strict";n.Z=`import { TimePicker } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import dayjs from 'dayjs';
 import customParseFormat from 'dayjs/plugin/customParseFormat';
@@ -4588,7 +4588,7 @@ export default () => {
     </Flex>
   );
 };
-`},12933:function(e,n){n.Z=`import { TimePicker } from '@agentscope-ai/design';
+`},12933:function(e,n){"use strict";n.Z=`import { TimePicker } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import dayjs from 'dayjs';
 import customParseFormat from 'dayjs/plugin/customParseFormat';
@@ -4607,7 +4607,7 @@ export default () => {
     </Flex>
   );
 };
-`},51278:function(e,n){n.Z=`import { Button, Tooltip } from '@agentscope-ai/design';
+`},51278:function(e,n){"use strict";n.Z=`import { Button, Tooltip } from '@agentscope-ai/design';
 import React from 'react';
 
 const App: React.FC = () => (
@@ -4617,7 +4617,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},12201:function(e,n){n.Z=`import { Button, Tooltip } from '@agentscope-ai/design';
+`},12201:function(e,n){"use strict";n.Z=`import { Button, Tooltip } from '@agentscope-ai/design';
 import { Flex } from 'antd';
 import React from 'react';
 
@@ -4640,7 +4640,7 @@ const App: React.FC = () => (
 );
 
 export default App;
-`},91720:function(e,n){n.Z=`import { Upload } from '@agentscope-ai/design';
+`},91720:function(e,n){"use strict";n.Z=`import { Upload } from '@agentscope-ai/design';
 import { SparkUploadLine } from '@agentscope-ai/icons';
 import { Flex } from 'antd';
 
@@ -4652,7 +4652,7 @@ export default () => (
     </Flex>
   </Upload>
 );
-`},8498:function(e,n){n.Z=`import { getCommonConfig, message, Upload } from '@agentscope-ai/design';
+`},8498:function(e,n){"use strict";n.Z=`import { getCommonConfig, message, Upload } from '@agentscope-ai/design';
 import { SparkUploadLine } from '@agentscope-ai/icons';
 
 const { Dragger } = Upload;
@@ -4694,7 +4694,7 @@ export default () => {
     </Dragger>
   );
 };
-`},81050:function(e,n){n.Z=`import { FileIcon, Upload, getCommonConfig } from '@agentscope-ai/design';
+`},81050:function(e,n){"use strict";n.Z=`import { FileIcon, Upload, getCommonConfig } from '@agentscope-ai/design';
 import { SparkDeleteLine, SparkFalseLine } from '@agentscope-ai/icons';
 import type { UploadFile } from 'antd/es/upload/interface';
 
@@ -4784,7 +4784,7 @@ export default () => (
     {...props}
   />
 );
-`},17931:function(e,n){n.Z=`import { ConfigProviderProps } from 'antd';
+`},17931:function(e,n){"use strict";n.Z=`import { ConfigProviderProps } from 'antd';
 import { Locale } from 'antd/es/locale';
 import { useLayoutEffect, useState } from 'react';
 export const DEFAULT_ANT_PREFIX = 'ant';
@@ -4843,4 +4843,4 @@ export function useCommonConfig(): CommonConfig {
   }, []);
   return config;
 }
-`}}]);
+`},13769:function(e,n,t){var s=t(48541);function l(u,c){if(u==null)return{};var i=s(u,c),o,f;if(Object.getOwnPropertySymbols){var d=Object.getOwnPropertySymbols(u);for(f=0;f<d.length;f++)o=d[f],!(c.indexOf(o)>=0)&&Object.prototype.propertyIsEnumerable.call(u,o)&&(i[o]=u[o])}return i}e.exports=l,e.exports.__esModule=!0,e.exports.default=e.exports},48541:function(e){function n(t,s){if(t==null)return{};var l={},u=Object.keys(t),c,i;for(i=0;i<u.length;i++)c=u[i],!(s.indexOf(c)>=0)&&(l[c]=t[c]);return l}e.exports=n,e.exports.__esModule=!0,e.exports.default=e.exports},68400:function(e){function n(t,s){return s||(s=t.slice(0)),Object.freeze(Object.defineProperties(t,{raw:{value:Object.freeze(s)}}))}e.exports=n,e.exports.__esModule=!0,e.exports.default=e.exports}}]);
