@@ -70,4 +70,14 @@ const App = () => {
 
 export default App;
 `,paraId:1,tocIndex:0}]},65762:function(o,n,a){a.r(n),a.d(n,{texts:function(){return e}});const e=[{value:"\u5F15\u5165 BLConfigProvider \u540E\uFF0C\u4F1A\u81EA\u52A8\u6CE8\u518C\u5982\u4E0B css \u53D8\u91CF, \u5176\u4E2D\u6570\u5B57\u7C7B\u578B\u53D8\u91CF\u4F1A\u81EA\u52A8\u589E\u52A0 px \u5355\u4F4D\uFF1A",paraId:0,tocIndex:0},{value:`Code snippet path not found: ../../../src/antd/bailianCssVariables.ts
-`,paraId:1,tocIndex:0}]},51446:function(o,n,a){a.r(n),a.d(n,{texts:function(){return e}});const e=[]}}]);
+`,paraId:1,tocIndex:0}]},51446:function(o,n,a){a.r(n),a.d(n,{texts:function(){return e}});const e=[{value:"\u6B22\u8FCE\u6765\u5230 Spark Design \u7EC4\u4EF6\u5E93\u3002",paraId:0},{value:"\u5982\u679C\u6CA1\u6709\u81EA\u52A8\u8DF3\u8F6C\uFF0C\u8BF7\u524D\u5F80\u7EC4\u4EF6\u603B\u89C8\u9875\u9762\u3002",paraId:1},{value:"\u524D\u5F80\u7EC4\u4EF6",paraId:2},{value:`
+  (function () {
+    try {
+      var hash = location.hash || '';
+      // \u4EC5\u5728\u6CA1\u6709\u660E\u786E\u8DEF\u7531\u65F6\u8DF3\u8F6C\uFF0C\u907F\u514D\u5F71\u54CD\u5DF2\u6709\u951A\u70B9\u6216\u8DEF\u7531
+      if (!hash || hash === '#/' || hash === '#') {
+        location.hash = '#/components';
+      }
+    } catch (e) {}
+  })();
+`,paraId:3}]}}]);
