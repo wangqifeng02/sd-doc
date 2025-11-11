@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://wangqifeng02.github.io/sd-doc",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "build": "cd ../agentscope-spark-design/packages/spark-design && GITHUB_PAGES=true npm run docs:build",
+    "copy": "rm -rf dist && cp -r ../agentscope-spark-design/packages/spark-design/dist ./dist",
+    "deploy": "npm run build && npm run copy && gh-pages -d dist",
+    "deploy:quick": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
