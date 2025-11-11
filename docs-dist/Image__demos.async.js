@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_agentscope_ai_design=self.webpackChunk_agentscope_ai_design||[]).push([[8682],{57566:function(i,t,n){n.r(t),n.d(t,{default:function(){return e}});var s=n(15713),_=n(85893);function e(){return(0,_.jsx)(s.Z,{width:120,src:"https://img.alicdn.com/imgextra/i1/O1CN01Py27NU1re2pgohzqU_!!6000000005655-0-tps-480-480.jpg"})}}}]);
