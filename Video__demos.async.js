@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_agentscope_ai_design=self.webpackChunk_agentscope_ai_design||[]).push([[991],{16978:function(_,t,s){s.r(t);var e=s(21618),n=s(85893);t.default=function(){return(0,n.jsx)(e.Z,{src:"https://cloud.video.taobao.com/vod/ObvVc91XA3OJXnFHl0KVhBo_60LrKAROCojWxB_EAYs.mp4",controls:!0,style:{width:"100%",height:"100%"}})}}}]);
